@@ -1,12 +1,31 @@
-# React + Vite
+👨‍💼 Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A React.js-based Employee Management System that uses LocalStorage for data handling.  
+Admins can assign tasks to employees, track their progress in real time, and manage statuses.  
+Employees can view assigned tasks and update them as Completed, Failed, or Accepted — with all changes instantly reflected in the admin panel.
 
-Currently, two official plugins are available:
+🚀 Features
+- Admin Panel
+  - Assign tasks to employees.  
+  - Track task status updates in real time.  
+  - View and manage all tasks in one place.  
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+- Employee Panel
+  - View assigned tasks.  
+  - Update task status as **Completed**, **Failed**, or **Accepted**.  
+  - Instant updates reflected for the admin.
 
-## Expanding the ESLint configuration
+- LocalStorage Integration  
+  - All data is stored locally in the browser.  
+  - No backend or database required.  
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+🛠️ Tech Stack
+- React.js – Frontend framework  
+- LocalStorage – Browser-based data storage  
+- CSS / Tailwind – UI styling  
+
+ 📸 Screenshots
+Example:  
+![Admin Panel](screenshot-admin.png  
+![Employee Panel](screenshot-employee.png)  
+
