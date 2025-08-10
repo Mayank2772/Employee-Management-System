@@ -26,6 +26,7 @@ Employees can view assigned tasks and update them as Completed, Failed, or Accep
 
  📸 Screenshots
 Example:  
-![Admin Panel](screenshot-admin1.png,screenshot-admin2.png)
+![Admin Panel - Screenshot 1](screenshot-admin1.png)  
+![Admin Panel - Screenshot 2](screenshot-admin2.png)
 ![Employee Panel](screenshot-employee.png)  
 
